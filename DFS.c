@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 int a[10][10], n, vis[10];
-
+ 
 int dfs(int v);
 
 int main(){
