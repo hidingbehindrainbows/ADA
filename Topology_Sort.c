@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-
+ 
 void dfs(int);
 int a[10][10],vis[10],exp[10],n,j,m;
 
