@@ -1,7 +1,7 @@
 #include<stdio.h>
 void bfs(int);
 int a[10][10],vis[10],n;
-                                                                   
+
 void main()
 {
    int i,j,src;
